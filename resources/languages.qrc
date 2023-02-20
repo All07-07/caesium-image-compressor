@@ -13,5 +13,6 @@
         <file>i18n/caesium_pt_BR.qm</file>
         <file>i18n/caesium_el_GR.qm</file>
         <file>i18n/caesium_id_ID.qm</file>
+        <file>i18n/caesium_sk_SK.qm</file>
     </qresource>
 </RCC>
