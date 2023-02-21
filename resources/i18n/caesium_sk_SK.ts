@@ -112,12 +112,12 @@ Naozaj chcete pokračovať?</translation>
     <message>
         <location filename="../../src/MainWindow.cpp" line="753"/>
         <source>You just saved %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Práve ste uložili %1!</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1134"/>
         <source>Finishing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokončovanie...</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="559"/>
@@ -307,7 +307,7 @@ Ušetrené: %4 (%5%)</translation>
     <message>
         <location filename="../../views/MainWindow.ui" line="892"/>
         <source>Skip if output size is bigger than the original</source>
-        <translation type="unfinished"></translation>
+        <translation>Preskočte, ak je výstupná veľkosť väčšia ako originál</translation>
     </message>
     <message>
         <location filename="../../views/MainWindow.ui" line="909"/>
@@ -332,7 +332,7 @@ Ušetrené: %4 (%5%)</translation>
     <message>
         <location filename="../../views/MainWindow.ui" line="959"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Formát</translation>
     </message>
     <message>
         <location filename="../../views/MainWindow.ui" line="984"/>
@@ -342,12 +342,12 @@ Ušetrené: %4 (%5%)</translation>
     <message>
         <location filename="../../views/MainWindow.ui" line="1138"/>
         <source>Compressed</source>
-        <translation type="unfinished"></translation>
+        <translation>Skomprimované</translation>
     </message>
     <message>
         <location filename="../../views/MainWindow.ui" line="1145"/>
         <source>Original</source>
-        <translation type="unfinished"></translation>
+        <translation>Originál</translation>
     </message>
     <message>
         <location filename="../../views/MainWindow.ui" line="1194"/>
@@ -409,7 +409,7 @@ Ušetrené: %4 (%5%)</translation>
     <message>
         <location filename="../../views/MainWindow.ui" line="1341"/>
         <source>Del</source>
-        <translation type="unfinished"></translation>
+        <translation>Del</translation>
     </message>
     <message>
         <location filename="../../views/MainWindow.ui" line="1346"/>
@@ -469,18 +469,18 @@ Ušetrené: %4 (%5%)</translation>
     <message>
         <location filename="../../views/MainWindow.ui" line="1450"/>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť</translation>
     </message>
     <message>
         <location filename="../../views/MainWindow.ui" line="1458"/>
         <source>Auto preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatický náhľad</translation>
     </message>
     <message>
         <location filename="../../views/MainWindow.ui" line="1470"/>
         <location filename="../../src/MainWindow.cpp" line="1120"/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Náhľad</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="816"/>
@@ -520,62 +520,62 @@ Ušetrené: %4 (%5%)</translation>
     <message>
         <location filename="../../views/PreferencesDialog.ui" line="307"/>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Import</translation>
     </message>
     <message>
         <location filename="../../views/PreferencesDialog.ui" line="348"/>
         <source>Do not import if size is</source>
-        <translation type="unfinished"></translation>
+        <translation>Neimportovať, ak je veľkosť</translation>
     </message>
     <message>
         <location filename="../../views/PreferencesDialog.ui" line="366"/>
         <source>greater than</source>
-        <translation type="unfinished"></translation>
+        <translation>väčšia ako</translation>
     </message>
     <message>
         <location filename="../../views/PreferencesDialog.ui" line="371"/>
         <source>equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>rovná</translation>
     </message>
     <message>
         <location filename="../../views/PreferencesDialog.ui" line="376"/>
         <source>less than</source>
-        <translation type="unfinished"></translation>
+        <translation>menšia ako</translation>
     </message>
     <message>
         <location filename="../../views/PreferencesDialog.ui" line="411"/>
         <source>bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>bytes</translation>
     </message>
     <message>
         <location filename="../../views/PreferencesDialog.ui" line="416"/>
         <source>KB</source>
-        <translation type="unfinished"></translation>
+        <translation>kB</translation>
     </message>
     <message>
         <location filename="../../views/PreferencesDialog.ui" line="421"/>
         <source>MB</source>
-        <translation type="unfinished"></translation>
+        <translation>MB</translation>
     </message>
     <message>
         <location filename="../../views/PreferencesDialog.ui" line="481"/>
         <source>When importing files directly</source>
-        <translation type="unfinished"></translation>
+        <translation>Pri priamom importe súborov</translation>
     </message>
     <message>
         <location filename="../../views/PreferencesDialog.ui" line="494"/>
         <source>Import only</source>
-        <translation type="unfinished"></translation>
+        <translation>Importovať iba</translation>
     </message>
     <message>
         <location filename="../../views/PreferencesDialog.ui" line="499"/>
         <source>Import and compress</source>
-        <translation type="unfinished"></translation>
+        <translation>Import a kompresia</translation>
     </message>
     <message>
         <location filename="../../views/PreferencesDialog.ui" line="521"/>
         <source>This option applies when using command line or by dropping files to the application icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Táto možnosť platí pri použití príkazového riadka alebo presunutím súborov na ikonu aplikácie</translation>
     </message>
     <message>
         <location filename="../../views/PreferencesDialog.ui" line="678"/>
@@ -707,22 +707,22 @@ Ušetrené: %4 (%5%)</translation>
     <message>
         <location filename="../../src/utils/Utils.h" line="110"/>
         <source>Same as input</source>
-        <translation type="unfinished"></translation>
+        <translation>Rovnako ako vstup</translation>
     </message>
     <message>
         <location filename="../../src/utils/Utils.h" line="111"/>
         <source>JPG</source>
-        <translation type="unfinished"></translation>
+        <translation>JPG</translation>
     </message>
     <message>
         <location filename="../../src/utils/Utils.h" line="112"/>
         <source>PNG</source>
-        <translation type="unfinished">PNG</translation>
+        <translation>PNG</translation>
     </message>
     <message>
         <location filename="../../src/utils/Utils.h" line="113"/>
         <source>WebP</source>
-        <translation type="unfinished">WebP</translation>
+        <translation>WebP</translation>
     </message>
 </context>
 <context>
